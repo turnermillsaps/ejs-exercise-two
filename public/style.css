@@ -2,3 +2,7 @@ html {
     font-family: Arial, Helvetica, sans-serif;
     background-color: aliceblue;
 }
+
+h2 {
+    color: blue;
+}
